@@ -21,21 +21,21 @@ Hit enter, and viola!
 
 The data you've requested has now magically appeared onto your terminal screen and is logged into a file called log.txt
 
-##### Example 1
+### Example 1
 
-![concert-this](../master/screenshots/concert-this.png)
+<img src="../master/screenshots/concert-this.png" height="300x">
 
-##### Example 2
+### Example 2
 
-![spotify-this-song](../master/screenshots/spotify-this.png)
+<img src="../master/screenshots/spotify-this.png" height="300px">
 
-##### Example 3
+### Example 3
 
-![movie-this](../master/screenshots/movie-this.png)
+<img src="../master/screenshots/movie-this.png" height="300px">
 
-##### Example 4
+### Example 4
 
-![do-what-it-says](../master/screenshots/do-what.png)
+<img src="../master/screenshots/do-what.png" height="300px">
 
 ## Technologies Used
 
