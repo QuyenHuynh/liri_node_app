@@ -5,6 +5,11 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 LIRI has a total of four commands which can be used to retrieve data on concerts, songs, and movies.
 After each command, the data is also logged into the file log.txt
 
+1. `node liri concert-this <artist name>`
+2. `node liri spotify-this-song <song title>`
+3. `node liri movie-this <movie title>`
+4. `node liri do-what-it-says`
+
 ## How to Use
 
 Clone this repository onto your device.
