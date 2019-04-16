@@ -1,17 +1,349 @@
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 05/30/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 06/01/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA JAZZ & PIANO
+Concert date: 06/02/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 06/06/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 1 and June 2)
+Concert date: 06/02/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA JAZZ & PIANO
+Concert date: 06/09/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 06/08/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 06/12/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 06/14/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA JAZZ & PIANO
+Concert date: 06/15/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 14 and June 15)
+Concert date: 06/15/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 10/17/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 10/19/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA JAZZ & PIANO
+Concert date: 10/20/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 19 and October 20)
+Concert date: 10/20/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 10/23/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 10/25/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA JAZZ & PIANO
+Concert date: 10/26/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 25 and October 26)
+Concert date: 10/26/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 10/31/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 11/02/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA JAZZ & PIANO
+Concert date: 11/03/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 2 and November 3)
+Concert date: 11/03/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 11/06/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 8 and June 9)
+Concert date: 06/09/2019
+Country: United States
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
 Venue name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 8 and November 9)
 Concert date: 11/09/2019
 Country: United States
-City: Las VegasVenue name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 8 and November 9)
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA JAZZ & PIANO
 Concert date: 11/09/2019
 Country: United States
-City: Las VegasVenue name: iHeartRadio Music Festival
-Concert date: 09/21/2019
+City: Las Vegas
+_______________________EVENT INFORMATION_____________________
+Venue name: LADY GAGA ENIGMA
+Concert date: 11/08/2019
 Country: United States
-City: Las VegasTitle: Mulan
-Year: 1998
-Actors: Miguel Ferrer, Harvey Fierstein, Freda Foh Shen, June Foray
-Country: USA
-Language: English, Mandarin
-IMDB Rating:7.6/10
-Rotton Tomatoes Rating: 86%
-Plot: To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.
+City: Las Vegas
+_________________________SONG INFORMATION__________________________
+Artist(s): The Neighbourhood
+Song Name: Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/b189d26b94a514fa75e47775b4ce05421c67580f?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: I Love You.
+_________________________SONG INFORMATION__________________________
+Artist(s): The Neighbourhood
+Song Name: Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/ff64df97746e9b97673169f97e0eb5045c552278?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: I'm Sorry...
+_________________________SONG INFORMATION__________________________
+Artist(s): The Neighbourhood
+Song Name: Sweater Weather - Spotify Sessions Curated by Jim Eno
+Preview Link: https://p.scdn.co/mp3-preview/bed9e182c4c5af6bf19fdb81ea491c974d8fd6f1?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Spotify Sessions
+_________________________SONG INFORMATION__________________________
+Artist(s): Kurt Hugo Schneider
+Song Name: Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/dcd4dedcc0cc2d716594d93bfba3a88afa8a2484?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Kurt & Company Vol 2
+_________________________SONG INFORMATION__________________________
+Artist(s): Pentatonix
+Song Name: Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/f8975245ccc51ace0c6b3a00e05fffc3f7f0f44c?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Christmas Is Here!
+_________________________SONG INFORMATION__________________________
+Artist(s): We Three
+Song Name: Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/14a03bbcaa9014c3097510f3b28d861af38cb873?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: We Three
+_________________________SONG INFORMATION__________________________
+Artist(s): Slaves
+Song Name: Sweater Weather
+Preview Link: null
+Album: Punk Goes Pop, Vol. 6
+_________________________SONG INFORMATION__________________________
+Artist(s): James Harris
+Song Name: Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/633ddd254e0fab880bf6b9da832f2dace6791b7d?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Sweater Weather
+_________________________SONG INFORMATION__________________________
+Artist(s): JVNA
+Song Name: Dearly Beloved Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/3f14527d817c52c220421879d734790da9f94f75?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Dearly Beloved Sweater Weather
+_________________________SONG INFORMATION__________________________
+Artist(s): Kina Grannis
+Song Name: Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/b97dd0064878bb7e37ea48e8497e1c1be3bdab49?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: The Living Room Sessions Vol. 2
+_________________________SONG INFORMATION__________________________
+Artist(s): Scott Bradlee's Postmodern Jukebox
+Song Name: Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/b5b5f74a8d697bbcddb619c402151cf716d6af82?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Clubbin' With Grandpa
+_________________________SONG INFORMATION__________________________
+Artist(s): Taylor Phelan
+Song Name: Sweater Weather - The Voice Performance
+Preview Link: null
+Album: Sweater Weather (The Voice Performance)
+_________________________SONG INFORMATION__________________________
+Artist(s): Ari Gumora
+Song Name: Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/30e0cc4849bd0bf4a3375e580302017822e0c0c2?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Sweater Weather
+_________________________SONG INFORMATION__________________________
+Artist(s): Vitamin String Quartet
+Song Name: Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/7ba46d178af90cb2b2d1780a308e384975933789?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: VSQ Performs the Hits of 2013, Vol. 1
+_________________________SONG INFORMATION__________________________
+Artist(s): Savannah Outen
+Song Name: Sweater Weather (Acoustic)
+Preview Link: https://p.scdn.co/mp3-preview/40f1af2c16558240195933a617594e33f99e0bea?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: The Covers, Vol. 6
+_________________________SONG INFORMATION__________________________
+Artist(s): 89ine
+Song Name: sweater weather - lofi remix
+Preview Link: https://p.scdn.co/mp3-preview/c7f59828d077ea0ea7be3dcb811cf7b1b18f166d?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: sweater weather (lofi remix)
+_________________________SONG INFORMATION__________________________
+Artist(s): Vitamin String Quartet
+Song Name: Sweater Weather - Live
+Preview Link: https://p.scdn.co/mp3-preview/e462032a4e38cef936c2aea89507d3eee6a21222?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: VSQ Live at Troubadour
+_________________________SONG INFORMATION__________________________
+Artist(s): Vitamin String Quartet
+Song Name: Sweater Weather - Live from Spotify Sxsw 2014
+Preview Link: https://p.scdn.co/mp3-preview/7e5af3f2a32be71ab5cfe91f5e2440788a51c22e?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Spotify Sessions
+_________________________SONG INFORMATION__________________________
+Artist(s): Madilyn Bailey
+Song Name: Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/153609a93f648a8385355cf571eae394ea3a5d6c?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: The Covers, Vol. 7
+_________________________SONG INFORMATION__________________________
+Artist(s): xo sad
+Song Name: Sweater Weather
+Preview Link: https://p.scdn.co/mp3-preview/99efa9e6a39f99674a7dd8f2b2e2a83b51a70e61?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Sweater Weather
+_________________________MOVIE INFORMATION________________________
+Title: Gladiator
+Year: 2000
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+Country: USA, UK
+Language: English
+IMDB Rating:8.5/10
+Rotton Tomatoes Rating: 76%
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+_________________________SONG INFORMATION__________________________
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: The Hits--Chapter One
+_________________________SONG INFORMATION__________________________
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Millennium
+_________________________SONG INFORMATION__________________________
+Artist(s): Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Covers Part IV
+_________________________SONG INFORMATION__________________________
+Artist(s): Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Beautiful Dreams
+_________________________SONG INFORMATION__________________________
+Artist(s): Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: I Want It That Way
+_________________________SONG INFORMATION__________________________
+Artist(s): "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Poodle Hat
+_________________________SONG INFORMATION__________________________
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: 90 Sweet 90s Hits!
+_________________________SONG INFORMATION__________________________
+Artist(s): Steel Panther
+Song Name: I Want It That Way
+Preview Link: null
+Album: I Want It That Way
+_________________________SONG INFORMATION__________________________
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: NKOTBSB
+_________________________SONG INFORMATION__________________________
+Artist(s): Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+_________________________SONG INFORMATION__________________________
+Artist(s): Manuel Costa
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: I Want It That Way
+_________________________SONG INFORMATION__________________________
+Artist(s): Boyce Avenue
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Cover Sessions, Vol. 2
+_________________________SONG INFORMATION__________________________
+Artist(s): Scary Pockets
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Nu Funk
+_________________________SONG INFORMATION__________________________
+Artist(s): Scott Bradlee's Postmodern Jukebox
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Selfies on Kodachrome
+_________________________SONG INFORMATION__________________________
+Artist(s): Marcelo Rezende
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: Ballads in Bossa (The Colors of Love Ballads)
+_________________________SONG INFORMATION__________________________
+Artist(s): Kidz Bop Kids
+Song Name: I Want It That Way
+Preview Link: null
+Album: Kidz Bop
+_________________________SONG INFORMATION__________________________
+Artist(s): "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: The Essential "Weird Al" Yankovic
+_________________________SONG INFORMATION__________________________
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=bcc56a6b886746a3830bb19e59ebccc7
+Album: NOW That's What I Call 90s Pop
+_________________________SONG INFORMATION__________________________
+Artist(s): Alex Boniello
+Song Name: I Want It That Way
+Preview Link: null
+Album: Cruel Intentions: The '90s Musical
+_________________________SONG INFORMATION__________________________
+Artist(s): Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: null
+Album: Punk Goes Pop

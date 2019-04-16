@@ -42,25 +42,25 @@ function concertSearch(searchTerm) {
                 var city = data[i].venue.city;
 
                 var concertInfo = [
+                    "_______________________EVENT INFORMATION_____________________" ,
                     "Venue name: " + venueName,
                     "Concert date: " + concertDate,
                     "Country: " + country,
-                    "City: " + city,
+                    "City: " + city + "\n",
                 ].join("\n");
 
-                console.log("*****Concert Information******")
                 console.log(concertInfo);
-                console.log("******************************")
+
+                fs.appendFile("log.txt", concertInfo, function (err) {
+                    if (err) {
+                        console.log(err);
+                    } else {
+                        return true;
+                    }
+                });
+
             }
-        
-            fs.appendFile("log.txt", concertInfo, function (err) {
-                if (err) {
-                    console.log(err);
-                }
-                else {
-                    console.log("Content Logged!");
-                }
-            });
+
         });
 }
 
@@ -74,32 +74,31 @@ function musicSearch(searchTerm) {
         }
         var data = data.tracks.items
 
-        for (i = 0 ; i < data.length ; i++){
+        for (i = 0; i < data.length; i++) {
             var title = data[i].name;
             var artist = data[i].artists[0].name;
             var url = data[i].preview_url;
             var album = data[i].album.name;
 
             var songInfo = [
+                "_________________________SONG INFORMATION__________________________" ,
                 "Artist(s): " + artist,
                 "Song Name: " + title,
                 "Preview Link: " + url,
-                "Album: " + album
+                "Album: " + album + "\n",
             ].join("\n")
 
-            console.log("*******Song Information******")
             console.log(songInfo);
-            console.log("*****************************");
-        }
 
-        // fs.appendFile("log.txt", songInfo, function (err) {
-        //     if (err) {
-        //         console.log(err);
-        //     }
-        //     else {
-        //         console.log("Content Logged!");
-        //     }
-        // });
+            fs.appendFile("log.txt", songInfo, function (err) {
+                if (err) {
+                    console.log(err);
+                }
+                else {
+                    return true;
+                }
+            });
+        }
     });
 }
 
@@ -112,6 +111,7 @@ function movieSearch(searchTerm) {
 
             var data = response.data;
             var movieInfo = [
+                "_________________________MOVIE INFORMATION________________________" ,
                 "Title: " + data.Title,
                 "Year: " + data.Year,
                 "Actors: " + data.Actors,
@@ -119,19 +119,17 @@ function movieSearch(searchTerm) {
                 "Language: " + data.Language,
                 "IMDB Rating:" + data.Ratings[0].Value,
                 "Rotton Tomatoes Rating: " + data.Ratings[1].Value,
-                "Plot: " + data.Plot,
+                "Plot: " + data.Plot + "\n",
             ].join("\n");
 
-            console.log("*****Movie Information******");
             console.log(movieInfo);
-            console.log("****************************");
 
             fs.appendFile("log.txt", movieInfo, function (err) {
                 if (err) {
                     console.log(err);
                 }
                 else {
-                    console.log("Content Logged!");
+                    return true;
                 }
             });
         }
